@@ -1,0 +1,3 @@
+[submodule "src/AimIO"]
+	path = src/AimIO
+	url = https://github.com/Numerics88/AimIO/
